@@ -1,0 +1,9 @@
+joblib==1.5.1
+kagglehub==0.3.12
+keras_tuner==1.4.7
+# numpy==2.3.2
+pandas==2.3.1
+plotly==6.2.0
+scikit_learn==1.7.1
+streamlit==1.48.0
+tensorflow==2.19.0
